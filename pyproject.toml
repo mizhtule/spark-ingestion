@@ -1,0 +1,7 @@
+[project]
+name = "spark-ingestion"
+version = "0.1.0"
+description = "A collection of Apache Spark applications for scalable data ingestion, including data migration, CDC (Change Data Capture), and incremental loading pipelines."
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = []
